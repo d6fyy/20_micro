@@ -4,4 +4,4 @@
 |:---|:---:|---:|
 :AAA :123: BBB:
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+[![跟我一起感謝](https://img.youtube.com/vi/zFdCd_SG13U/0.jpg)](https://www.youtube.com/watch?time_continue=2&v=zFdCd_SG13U "跟我一起感謝")
